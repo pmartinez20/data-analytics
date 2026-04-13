@@ -1,0 +1,17 @@
+3A Reviewing survey results 
+1. I can determine clear ranges for each variable right away. 
+2. Yes, The table columns are easy to follow, The only thing I would do is make the cells wider as to make the text answers fully visible.
+3. Does not apply 
+4. Everyone formatted their text answers differently. This will make organizing data harder as it needs to be cleaned. For example: some people formatted their height differently, as well as the amount of experience they have with excel.
+5. I would choose to make more survey answer options multiple choice, or add instructions to each question. 
+6. I'm surprised how different the written answers are  
+7. Does not apply
+8. Determining how familiar a percentage of the class is with excel could tell an instructor how to pace the class. It could also show which students need more support. Additionally, I can see how this would help an instructor get to know their students better.
+9. For the purpose of the assignment, having this data available to students is helpful and the visuals help students observe survey answer possibilities, bad data, and formatting differences.
+
+5A. Telling data stories with comics 
+a) Self Description is about data itself. Lakes and Oceans is showing depths of water, sunken ships and animals. Earth Temperature Timeline is 22,000 years of Earth's temperature history as well as predictions. 
+b)I loved the whimsical and purposeful manner in which the science is presented and the variety in visuals 
+c)Self-Description uses Charts because they are direct visualizations of numbers which are mediums in this case. Very Straightforward. Lakes and Oceans uses the vertical format because it mimics plunging into the ocean. Earth's Temperature Timeline uses a scroll timeline to express the passage of time. Dotted represents estimate, solid represents hard data. This shows us the transition from uncertainty to certainty. 
+
+My favorite comic is Lakes and Oceans. The format mimics how we would descend into a large body of water and I like how well it communicates how vast the ocean is. The scaling makes data seem small and makes you realize how little we understand about the ocean
