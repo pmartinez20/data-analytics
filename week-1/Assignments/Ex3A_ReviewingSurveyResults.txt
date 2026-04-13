@@ -1,0 +1,9 @@
+1. I can determine clear ranges for each variable right away. 
+2. Yes, The table columns are easy to follow, The only thing I would do is make the cells wider as to make the text answers fully visible.
+3. Does not apply 
+4. Everyone formatted their text answers differently. This will make organizing data harder as it needs to be cleaned. For example: some people formatted their height differently, as well as the amount of experience they have with excel.
+5. I would choose to make more survey answer options multiple choice, or add instructions to each question. 
+6. I'm surprised how different the written answers are  
+7. Does not apply
+8. Determining how familiar a percentage of the class is with excel could tell an instructor how to pace the class. It could also show which students need more support. Additionally, I can see how this would help an instructor get to know their students better.
+9. For the purpose of the assignment, having this data available to students is helpful and the visuals help students observe survey answer possibilities, bad data, and formatting differences.

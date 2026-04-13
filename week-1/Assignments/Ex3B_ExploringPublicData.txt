@@ -1,0 +1,8 @@
+1. This is a website of public data sets 
+2. 402,378
+3. A lot of these data sets are about how X affects human health. For example: Food quality may directly affect health. So does air pollution and water contamination. 
+4. I can click of the USDA icon to look at all of the data catalogs published by USDA. I can also navigate to the USDA website by clicking "references." This brings me to the USDA website where I can navigate to "Data Products" and filter by alphabetical order, type, topic, keywords, and additional filters.
+6. When I look up by city, I see data sets listed by our local government. They appear as "City Government." For county, it's "County Government." For state, it is "State Government."
+7. The word "Nutrition" is broader than "Food composition." If I want to see specific nutritional facts, I might want to search "Food composition" instead. If want to see broader conversations surrounding nutrition, I would look up "Nutrition."
+8. When I search for "butter," I see different data categories. Lower on the page, I see types of butter. If I click on "Almond butter, creamy" for example, I can see components, individual samples, and other information for that food.
+9. I see downloads by release dates in JSON format and CSV format. They are anywhere from 467k to 6.5M 

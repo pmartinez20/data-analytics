@@ -1,0 +1,20 @@
+1. What is the most common breakup food per state?
+How do heartbreak and comfort food relate? How does this vary per region? I want to know what the food choices are and why they vary depending on the state.
+
+2. https://trends.google.com/explore?q=milkshake&date=now%201-d&geo=US
+
+3a. Feb 28 - March 31st 2025
+3b. Nov 30th - Dec 31st 2024
+
+4a. Highest: April 30th - May 31st 2024 Lowest: November 30th - December 31st 2024 
+4b. The line for milkshake significantly falls when "hamburger" is added to the graph. The data is now relative to the popularity of hamburgers.
+
+5. It changed because hamburger is relatively more popular than milkshakes.
+
+6a. The topic of breakup peaks around a similar time as hamburger peaks but not drastically. The topics' popularity also decrease over time but not enough to suggest there is a strong correlation between the two.
+6b. Milkshakes and Breakups are closer in popularity. They both peaked around the same time during January. Both topics remained steady relevancy until the end of February. 
+
+7. This backs up the articles findings about milkshakes being the most popular breakup foods because the topics "breakup" and "milkshake" are more closely related than "breakup" and "hamburger."
+
+8a. North Carolina 
+8b. South Dakota 
